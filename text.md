@@ -2,6 +2,8 @@
 
 ## Productos
 
+Texto normal *cursiva* **negrita**
+
 - Shampoo
 - Jabón
 - Carne
