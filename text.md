@@ -2,10 +2,9 @@
 
 ## Productos
 
-Texto normal *cursiva* **negrita**
-
-- Shampoo
-- Jabón
-- Carne
+- **Shampoo**
+- *Jabón*
+- **Carne**
+- *Pollo*
 
 
